@@ -1,4 +1,4 @@
-## Practical Machine Learning for Engineerin Analytics
+## Practical Machine Learning for Engineering Analytics
 ## ISE 538 Summer 2025
 
 ### Course Description
